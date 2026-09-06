@@ -1,0 +1,8 @@
+M001|Shadin|1234|Manager|0123456789|shadin@email.com|Management
+A001|Rahim|1234|Administrator|0123456789|rahim@gmail.com|Administration
+T001|Karim|1234|Technician|0199999999|karim@gmail.com|Service
+I001|Jamal|1234|InventoryOfficer|0128888888|jamal@gmail.com|Inventory
+C001|Karim|1234|Customer|01999999|karim@gmail.com|Customer
+T002|Hasan|1234|Technician|0188888888|hasan@gmail.com|Service
+I002|Shadin|1234|InventoryOfficer|0123456788|shadin@gmail.com|InventoryT003|Emon|1234|Technician|01234567890|emon@gmail.com|Service
+A002|Nobita|1234|Administrator|017123456789|Nabita@gmail.com|Administration
